@@ -55,7 +55,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.mahidevops.fun"
+  - host: "app2.mahidevops.fun"
     http:
       paths:
       - pathType: Prefix
